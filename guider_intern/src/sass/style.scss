@@ -1,0 +1,16 @@
+*{
+	font-family: Roboto, sans-serif;
+	box-sizing: border-box;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+@import 'base/variables';
+@import 'base/title';
+@import 'blocks/header';
+@import 'blocks/promo';
+@import 'blocks/search';
+

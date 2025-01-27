@@ -1,0 +1,20 @@
+.promo{
+	margin-top: 76px;
+	h1{
+		font-size: 140px;
+		color: $main-color;
+		text-align: center;
+		line-height: 128px;
+		margin: 0;
+	}
+	h2{
+		color: $main-text-color;
+		font-size: 20px;
+		text-align: center;
+		.explore{
+			color: $second-color;
+		}
+	}
+
+	
+}
