@@ -6,3 +6,11 @@ I am worked as frontend developer and converted from figma layout to js-react-ne
 - services
 - buttons
   and other mini components
+
+
+- ci cd test
+- next.js
+- typescript
+- gitlab
+- docker
+- 
